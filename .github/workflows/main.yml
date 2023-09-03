@@ -2,16 +2,23 @@
 # For more information, see:
 # https://docs.github.com/actions/reference/workflow-syntax-for-github-actions
 
-name: Rust Build
+name: Rust Code Quality
 
 on:
   workflow_dispatch:
 
 jobs:
-  build:
+  format:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
     - name: Check Cargo FMT
       run: cargo fmt --check
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Make sure Rust builds correctly
+      run: cargo build
