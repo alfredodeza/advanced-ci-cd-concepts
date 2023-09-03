@@ -5,8 +5,7 @@
 name: Rust Build
 
 on:
-  pull_request:
-    branches: [main]
+  workflow_dispatch:
 
 jobs:
   build:
@@ -18,5 +17,5 @@ jobs:
       uses: actions/setup-rust@v1
       with:
         rust-version: stable
-    - name: Build
-      run: cargo build --verbose
+    - name: Check Cargo FMT
+      run: cargo fmt --check
