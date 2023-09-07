@@ -12,7 +12,7 @@ This is the Rust template used as part of the [Rust Bootcamp](https://s.deza.pe/
 
 - [week 1](https://github.com/alfredodeza/rust-setup) 
 - [week 2](https://github.com/alfredodeza/rust-monitoring-logging)
-- [week 3](https://github.com/alfredodeza/rust-structs-types-enums/)
+- [week 3](https://github.com/alfredodeza/rust-systems-programming/)
 - [week 4](https://github.com/alfredodeza/advanced-ci-cd-concepts) 👈 You are here!
   
 
