@@ -16,10 +16,6 @@ This is the Rust template used as part of the [Rust Bootcamp](https://s.deza.pe/
 - [week 4](https://github.com/alfredodeza/advanced-ci-cd-concepts) 👈 You are here!
   
 
-🚀 **Watch the Video course**
-
-[![O'Reilly](https://learning.oreilly.com/covers/urn:orm:video:28080717VIDEOPAIML/400w/)](https://s.deza.pe/zjo "Rust Bootcamp")
-
 ## Get started
 
 To get started with this template, once you've [generated the repository](https://github.com/alfredodeza/rust-template/generate), run the following `cargo` command (replace my-project with the name of your project):
