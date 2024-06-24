@@ -46,10 +46,6 @@ This template is [Codespaces enabled](https://docs.github.com/en/codespaces/over
 
 This template repository is part of a 4-week Rust course, [start on week 1 here](https://github.com/alfredodeza/rust-setup) if you want to learn more about Rust!
 
-**O'Reilly Courses**
-
-- [DevOps command-line tools in Python and Rust](https://learning.oreilly.com/videos/devops-command-line-tools/28037639VIDEOPAIML/)
-
 **Coursera Courses**
 
 - [MLOps Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
