@@ -1,4 +1,4 @@
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=665539593)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=665539593) [![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/alfredodeza/advanced-ci-cd-concepts)
 
 # Rust template
 
@@ -42,6 +42,11 @@ This template comes with a GitHub Actions workflow that will run on every push t
 
 This template is [Codespaces enabled](https://docs.github.com/en/codespaces/overview). This means that you can start a new Codespace from this repository and start working on your project right away. To do this, click on the green "Code" button and select "Open with Codespaces". This will start a new Codespace for you and you can start editing the `src/main.rs` file right away.
 
+## Codeanywhere
+
+This template is also [Codeanywhere enabled](https://codeanywhere.com/). This means that you can start a new Codeanywhere workspace from this repository and start working on your project right away. To do this, click on "Open in Codeanywhere". This will start a new Codeanywhere workspace for you and you can start editing the `src/main.rs` file right away.
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/alfredodeza/advanced-ci-cd-concepts)
 ## Resources
 
 This template repository is part of a 4-week Rust course, [start on week 1 here](https://github.com/alfredodeza/rust-setup) if you want to learn more about Rust!
