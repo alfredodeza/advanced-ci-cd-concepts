@@ -4,8 +4,11 @@
 
 name: Rust Code Quality
 
+
 on:
-  workflow_dispatch:
+  pull_request:
+    branches:
+      - main
 
 jobs:
   matrix_build:
