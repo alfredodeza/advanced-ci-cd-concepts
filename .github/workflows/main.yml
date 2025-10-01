@@ -2,7 +2,7 @@
 # For more information, see:
 # https://docs.github.com/actions/reference/workflow-syntax-for-github-actions
 
-name: Rust Code Quality
+name: Rust Code Quality Tutorial
 
 
 on:
