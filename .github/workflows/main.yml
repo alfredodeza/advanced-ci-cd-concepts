@@ -5,7 +5,7 @@
 name: Rust Code Quality
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual triggering from GitHub UI
 
 jobs:
   matrix_build:
